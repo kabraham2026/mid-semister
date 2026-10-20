@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: yellowgreen;text-align: center;
+    font-family: cursive;border-radius: 12px;
+}
+h2{
+    color: blue;
+}
+h2:hover{ 
+    background-color: brown;font-size: 2opx;
+}
+p{color: black;text-align:center; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+p:hover{background-color: blueviolet;}
+.parastyles{font-family: cursive;font-size: 30px; color: beige;}
